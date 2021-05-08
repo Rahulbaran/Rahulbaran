@@ -9,8 +9,8 @@ HTML/CSS/JS/Python/Flask
 <li><h2>Skills I have to gain:-</h2></li>
 React/Vue/TypeScript/Saas
 <li><h2>My Social Links :-</h2></li>
- <a href="https://www.instagram.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/instagram.svg" width="50px" height="50px">
-<a href="twitter.com/@Rahul9122109422"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/twitter.svg" width="50px" height="50px">
-<a href="https://www.facebook.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/facebook-square-brands.svg" width="50px" height="50px">
+ <a href="https://www.instagram.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/instagram.svg" width="40px" height="40px">
+<a href="twitter.com/@Rahul9122109422"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/twitter.svg" width="40px" height="40px">
+<a href="https://www.facebook.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/facebook-square-brands.svg" width="40px" height="40px">
  
 </ul>
