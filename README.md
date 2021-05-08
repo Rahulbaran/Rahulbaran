@@ -7,8 +7,8 @@ Hi Everyone, I am Rahul Kumar from Jharkhand, India. I do web development and I 
 HTML/CSS/JS/Python/Flask
 <li><h2>Tools I will Start learning :-</h2></li>
 React/Vue/TypeScript/Saas
-<li>My Social Links :-</li>
-<a href="twitter.com/@Rahul9122109422"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/twitter.svg">
-<a href="https://www.instagram.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/instagram.svg">
-<a href="https://www.facebook.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/Facebook.svg">
+<li><h2>My Social Links :-</h2></li>
+<a href="twitter.com/@Rahul9122109422"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/twitter.svg" width="50px" height="50px">
+<a href="https://www.instagram.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/instagram.svg" width="50px" height="50px">
+<a href="https://www.facebook.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/Facebook.svg" width="50px" height="50px">
 </ul>
