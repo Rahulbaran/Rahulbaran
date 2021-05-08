@@ -1,6 +1,6 @@
-Hi Everyone, I am Rahul Kumar from Jharkhand, India. I do web development related stuffs and I am currently working on JS. Soon I will start learning some of the popular frameworks like React, Vue etc. and also TypeScript, Sass etc.
+Hi Everyone, I am Rahul Kumar from Jharkhand, India. I do web development and I am currently working on JS. Soon I will start learning some of the popular frameworks like React, Vue and also some other web development stuffs like TypeScript, Saas etc.
 
-
+<h3>My Profile</h3>
 <img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/Profile.png">
 <ul>
 <li><h2>Skills I have </h2></li>
