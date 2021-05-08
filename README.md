@@ -2,5 +2,5 @@ Hi Everyone, I am Rahul Kumar from Jharkhand, India. I do web development relate
 <img href="My Profile.jpg" alt="My Profile">
 <ul>
 <li><h2>Skills I have </h2></li>
-HTML , CSS, Python, Flask and JS
+HTML/CSS/JS/Python/Flask
 </ul>
