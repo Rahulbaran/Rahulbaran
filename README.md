@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p style="font-size:18px;">Hi Everyone, I am Rahul Kumar from Jharkhand, India. I do web development and I am currently working on JS. Soon I will start learning some of the popular frameworks like React, Vue and also some other web development stuffs like TypeScript, Saas etc.</p>
+<p style="font-size:18px;">Hi Everyone, I am Rahul from India. I do web development and currently learning on JS. Soon I will start learning some of the popular frameworks  React, Vue etc and also some other web development tools like TypeScript, Saas etc.</p>
 
 <h3>My Profile</h3>
 <img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/Profile.png">
