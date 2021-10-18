@@ -1,5 +1,9 @@
 <h1>About Me</h1>
-<p style="font-size:18px;">Hello everyone, I am Rahul from India. I create websites and web application where I use JavaScript as Frontend and Flask as backend.</p>
+<ul style="font-size:18px;">
+👋 Hi everyone, 
+ I am Rahul from India. I develop websites and web application using modern web tools. 
+ I love working with Flask and JavaScript.
+</ul>
  
 <div>
 <h2>Web tools which I use</h2>
