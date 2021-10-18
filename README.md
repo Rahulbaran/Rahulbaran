@@ -1,27 +1,31 @@
-<h1>About Me</h1>
-<ul style="font-size:18px;">
-👋 Hi everyone, 
- I am Rahul from India. I develop websites and web application using modern web tools. 
- I love working with Flask and JavaScript.
-</ul>
+<div style="font-size:18px;">
+ 
+<h1>👋 Hi everyone </h1> 
+ 
+ <p>I am Rahul from India🙂. I have pursued B.Tech in Civil Engineering from <a href="https://www.bitsindri.ac.in/" target="_blank">BIT Sindri</a>.</p>
+ <p>I wanted to be a web developer that's why I chose the path of web development rather than pursuing as a civil engineer in my career.</p>
+ <p>I am currently working on a <a href="https://github.com/Rahulbaran/Sakha" target="_blank">social network application</a>.</p>
+ <p>I have a <a href="https://rahulbaran.hashnode.dev/" target="_blank">blog website📝</a> on <a href="https://hashnode.com/" target="_blank">hashnode </a>, where you can read my articles about various web tools.</p>
+ <p>I love💛 watching web series and travelling. </p>
+ <p>You can checkout my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a>.</p>
+
+</div>
+ 
  
 <div>
-<h2>Web tools which I use</h2>
-<p>HTML, CSS, JS, Python, Flask & MySQL</p>
+ 
+ <h3>We can connect🤝 on social platforms</h3>
+ <ul>
+  <li><a href="https://twitter.com/Rahul9122109422">Twitter</a></li>
+  <li><a href="https://www.instagram.com/rahulkumar109422/">Instagram</a></li>
+  <li><a href="https://www.facebook.com/rahulkumar109422/">Facebook</a></li>
+ </ul>
+ 
 </div>
 
 <div>
-<h2>Web tools which I have to learn </h2>
-<p>Vue, TypeScript, SASS</p>
+ <h1>
 </div>
 
-<div>
-<h2>Contact me</h2>
-<p>
-<a href="https://www.instagram.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/instagram.svg" width="40px" height="40px"></a>
-<a href="https://twitter.com/Rahul9122109422"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/twitter.svg" width="40px" height="40px"></a>
-<a href="https://www.facebook.com/rahulkumar109422/"><img src="https://github.com/Rahulbaran/Rahulbaran/blob/main/facebook-square-brands.svg" width="40px" height="40px"></a>
-</p>
-</div>
 
- <p>Hire me if you want someone which can create a properly working web application/site for your need.</p>
+
