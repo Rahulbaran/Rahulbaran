@@ -17,7 +17,7 @@ I love💛 watching web series and travelling.
  
 ### We can connect🤝 on social platforms
 
-*  [Twitter](https://twitter.com/Rahul9122109422)
+*  [Twitter](https://twitter.com/Rahul9422dev)
 *  [Instagram](https://www.instagram.com/rahulkumar109422/)
 *  [Facebook](https://www.facebook.com/rahulkumar109422/)
 
