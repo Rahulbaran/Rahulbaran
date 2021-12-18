@@ -2,7 +2,7 @@
  
 I am Rahul from India🙂. I have pursued B.Tech in Civil Engineering from [BIT Sindri](https://www.bitsindri.ac.in/). 
 
-I wanted to be a web developer that's why I chose the path of web development rather than pursuing as a civil engineer in my career.
+I wanted to be a web developer that's why I chose the path of web development rather than pursuing my career as a civil engineer.
 
 I am currently working on a [social network application](https://github.com/Rahulbaran/Sakha).
 
