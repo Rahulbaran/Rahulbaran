@@ -8,14 +8,14 @@ I wanted to be a web developer that's why I chose the path of web development ra
 
 I have a [blog website📝](https://rahulbaran.hashnode.dev/) on [hashnode](https://hashnode.com/), where you can read my articles about various web tools.
 
-I love💛 watching web series and travelling.
+I love💛 watching movies & web series.
 
  You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
 
  
  
  
-### We can connect🤝 on social platforms
+### We can connect🤝 on following social platforms
 
 *  [Twitter](https://twitter.com/Rahul9422dev)
 *  [Instagram](https://www.instagram.com/rahulkumar109422/)
