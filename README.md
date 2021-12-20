@@ -4,7 +4,7 @@ I am Rahul from India🙂. I have pursued B.Tech in Civil Engineering from [BIT 
 
 I wanted to be a web developer that's why I chose the path of web development rather than pursuing my career as a civil engineer.
 
-I am currently working on a [social network application](https://github.com/Rahulbaran/Sakha).
+<!-- I am currently working on a [social network application](https://github.com/Rahulbaran/Sakha). -->
 
 I have a [blog website📝](https://rahulbaran.hashnode.dev/) on [hashnode](https://hashnode.com/), where you can read my articles about various web tools.
 
