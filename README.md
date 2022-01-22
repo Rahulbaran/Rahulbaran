@@ -18,13 +18,13 @@ You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
 
 ## 📊 Github Profile Stats
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&layout=compact&langs_count=8&hide=c%2B%2B&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&layout=compact&langs_count=8&hide=c%2B%2B&theme=onedark&hide_border=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Rahulbaran&theme=one-dark&hide_border=true" />
 
 ## 🛠 My Tools
 
-#### 👨🏼‍💻 Programming Languages
+### 👨🏼‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -32,7 +32,7 @@ You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-#### 🧰 Frameworks and Libraries 
+### 🧰 Frameworks and Libraries 
 <p>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -41,7 +41,7 @@ You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
 </p>
 
 
-#### 🗄️ Databases & Cloud Hosting
+### 🗄️ Databases & Cloud Hosting
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -50,7 +50,7 @@ You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
-#### 💻 Software and tools
+### 💻 Software and tools
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
