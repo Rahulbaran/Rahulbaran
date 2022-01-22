@@ -24,6 +24,7 @@ I love💛 watching movies & web series.
 
 ### My Github stats
 [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark)](https://github.com/rahulbaran/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaran&theme=dark)](https://git.io/streak-stats)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&layout=compact&langs_count=6&hide=c,C++)](https://github.com/anuraghazra/github-readme-stats)
