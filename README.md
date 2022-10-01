@@ -1,37 +1,52 @@
- # 👋 Hi everyone
- 
-- I am Rahul🙂, a Frontend developer from India. 
-- Currently, I am learning **React** and **Tailwind**.
-- I have a [blog website📝](https://rahulbaran.hashnode.dev/).
-- You can checkout my works on [Codepen](https://codepen.io/rahulbaran).
-- I 💜 watching movies.
-
-## 📊 Github Profile Stats
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&layout=compact&langs_count=8&hide=c%2B%2B&theme=onedark&hide_border=true&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Rahulbaran&theme=one-dark&hide_border=true" style="margin-block: 5em"/>
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaran&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
+# 👋 Hi everyone
+<div style="display: flex;flex-direction:column;gap:-2px">
+ <p>🌏 I am Rahul from Jharkhand, India</p> 
+ <p>🧠 I am currently learning <strong>React</strong> and <strong>Tailwind</strong></p>
+ <p>💌 You can contact me on <a href="mailto:rahulkumar109422@gmail.com">rahulkumar109422@gmail.com</a></p>
+ <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a></p>
+ <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a></p>
+ <p>🤝 I am open for collaborating on intereseting projects</p>
+ <p>💜 I love watching movies</p>
+</div>
+  
 ## 🛠️ Languages and Tools
-<div style="display:flex;gap:1.5rem;flex-wrap:wrap">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
+<p align="left">
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" title="Webpack" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" width="40" height="40"/>
-</div>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+</p>
 
-## 🤝 Connect with me
-- [Twitter](https://twitter.com/Rahul9422dev)
-- [Linkedin](https://www.linkedin.com/in/rahulbaran/)
-- [Instagram](https://www.instagram.com/rahulkumar109422/)
+ ## 🤝 Connect with me
+<p align="left"> 
+  <a href="https://www.twitter.com/rahul9422dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/rahulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.codepen.io/rahulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/in/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+</p>
+
+## 📊 Github Stats
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaran&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Rahulbaran&theme=one-dark&hide_border=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&langs_count=5&hide=c%2B%2B,c,powershell,assembly&theme=onedark&hide_border=true&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+                  
+                  
+               
+                          
+                     
