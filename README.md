@@ -1,8 +1,7 @@
-# 👋 Hi everyone
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi everyone
 <div style="display: flex;flex-direction:column;gap:-2px">
  <p>🌏 I am Rahul from Jharkhand, India</p> 
  <p>🧠 I am currently learning <strong>React</strong> and <strong>Tailwind</strong></p>
- <p>💌 You can contact me on <a href="mailto:rahulkumar109422@gmail.com">rahulkumar109422@gmail.com</a></p>
  <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a></p>
  <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a></p>
  <p>🤝 I am open for collaborating on intereseting projects</p>
@@ -35,7 +34,7 @@
 </p>
 
 ## 📊 Github Stats
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
+[![Rahul Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaran&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
