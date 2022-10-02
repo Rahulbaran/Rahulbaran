@@ -1,6 +1,6 @@
 <!-- <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="width:45px"/> Hi everyone</h1>-->
 <!-- [Header](./github-header-image.png) -->
-<img src="./github-header.image.png" alt="header image" width="100%" style="display: block"/>
+<img src="./github-header-image.png" alt="header image" width="100%" style="display: block"/>
 <div style="display: flex;flex-direction:column;gap:-2px">
  <p>🌏 I am from Jharkhand, India</p> 
  <p>🧠 I am currently learning <strong>React</strong> and <strong>Tailwind</strong></p>
