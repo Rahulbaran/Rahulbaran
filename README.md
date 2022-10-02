@@ -1,6 +1,8 @@
-<h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="width:45px"/> Hi everyone</h1>
+<!-- <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" style="width:45px"/> Hi everyone</h1> -->
+
+![Header](./github-header-image.png)
 <div style="display: flex;flex-direction:column;gap:-2px">
- <p>🌏 I am Rahul from Jharkhand, India</p> 
+ <p>🌏 I am from Jharkhand, India</p> 
  <p>🧠 I am currently learning <strong>React</strong> and <strong>Tailwind</strong></p>
  <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a></p>
  <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a></p>
