@@ -30,10 +30,10 @@
  ## 🤝 Connect with me
 <p align="left"> 
   <a href="https://www.twitter.com/rahul9422dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" alt="twitter" /></a>
-  <a href="https://www.github.com/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="github" /></a> 
+<!--   <a href="https://www.github.com/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="github" /></a>  -->
   <a href="https://www.linkedin.com/in/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="linkedin" /></a> 
-  <a href="https://www.codepen.io/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="32" height="32" alt="codepen" /></a>
-  <a href="http://www.instagram.com/in/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="instagram" /></a> 
+<!--   <a href="https://www.codepen.io/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="32" height="32" alt="codepen" /></a> -->
+  <a href="http://www.instagram.com/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="instagram" /></a> 
 </p>
 
 ## 📊 Github Stats
