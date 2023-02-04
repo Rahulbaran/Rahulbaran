@@ -33,7 +33,8 @@
 <!--   <a href="https://www.github.com/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="github" /></a>  -->
   <a href="https://www.linkedin.com/in/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="linkedin" /></a> 
 <!--   <a href="https://www.codepen.io/rahulbaran" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="32" height="32" alt="codepen" /></a> -->
-  <a href="http://www.instagram.com/rahulbaran/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" height="32" alt="instagram" /></a> 
+  <a href="http://www.instagram.com/rahulkumar109422/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram/eb2848" width="32" height="32" alt="instagram" /></a> 
+ <a href="https://www.facebook.com/rahulkumar109422" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" height="32" alt="facebook" /></a>
 </p>
 
 ## 📊 Github Stats
