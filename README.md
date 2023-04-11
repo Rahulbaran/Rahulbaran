@@ -3,7 +3,7 @@
 <!-- <img src="./github-header-image.png" alt="header image" width="100%" style="display: block"/> -->
 <div style="display: flex;flex-direction:column;gap:-2px">
  <p>🌏 I am Rahul Kumar from Jharkhand, India</p> 
- <p>🧠 I am currently learning <strong>React</strong> and <strong>Tailwind</strong></p>
+ <p>🧠 I am currently learning <strong>MERN Stack</strong>
  <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a></p>
  <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a></p>
  <p>🤝 I am open for collaboration</p>
@@ -16,6 +16,7 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a>
+   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
@@ -38,13 +39,13 @@
 </p>
 
 ## 📊 Github Stats
-[![Rahul Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats)
+<!-- [![Rahul Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbaran&show_icons=true&theme=onedark&hide_border=true)](https://github.com/rahulbaran/github-readme-stats) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaran&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rahulbaran&theme=one-dark&hide_border=true"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&langs_count=5&hide=c%2B%2B,c,powershell,assembly&theme=onedark&hide_border=true&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&langs_count=4&hide=c%2B%2B,c,python,powershell,assembly&theme=onedark&hide_border=true&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
