@@ -2,12 +2,12 @@
 <!-- [Header](./github-header-image.png) -->
 <!-- <img src="./github-header-image.png" alt="header image" width="100%" style="display: block"/> -->
 <div style="display: flex;flex-direction:column;gap:-2px">
- <p>🌏 I am Rahul Kumar from Jharkhand, India</p> 
- <p>🧠 I am currently learning <strong>MERN Stack</strong>
- <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a></p>
- <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a></p>
- <p>🤝 I am open for collaboration</p>
- <p>💜 I love watching movies</p>
+ <p>🌏 I am Rahul Kumar from Jharkhand, India.</p> 
+ <p>🧠 I am currently learning <strong>MERN Stack</strong>.
+ <p>✍ Checkout my blogs on <a href="https://rahulbaran.hashnode.dev/" target="_blank">Hashnode</a>.</p>
+ <p>🚀 See some of my works on <a href="https://codepen.io/rahulbaran" target="_blank">Codepen</a>.</p>
+ <p>🤝 I am open for collaboration.</p>
+ <p>💜 I love watching movies.</p>
 </div>
   
 ## 🛠️ Languages and Tools
