@@ -45,7 +45,7 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rahulbaran&theme=one-dark&hide_border=true"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&langs_count=4&hide=c%2B%2B,c,python,powershell,assembly&theme=onedark&hide_border=true&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbaran&langs_count=4&hide=c%2B%2B,c,python,powershell,assembly&theme=onedark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
